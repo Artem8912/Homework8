@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\bin\Debug\net6.0\Exercise-64.exe
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\bin\Debug\net6.0\Exercise-64.deps.json
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\bin\Debug\net6.0\Exercise-64.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\bin\Debug\net6.0\Exercise-64.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\bin\Debug\net6.0\Exercise-64.pdb
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\refint\Exercise-64.dll
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.pdb
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\Exercise-64.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Git work 11th of July\Homework8\Exercise-64\obj\Debug\net6.0\ref\Exercise-64.dll
